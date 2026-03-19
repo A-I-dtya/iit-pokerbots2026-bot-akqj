@@ -1,8 +1,10 @@
 # PokerBot (IIT PokerBots 2026)
 
-This repo contains a poker bot implemented in `bot-engine-2026/bot.py` by me. I finished '128' with 351 wins and 152 losses.
+This repo contains a poker bot implemented in IIT POKERBOTS 2026 by me. I finished 128 with 351 wins and 152 losses.
 Although not appealing this was a great exercise for using different python libraries to code and evaluate th code based on gamelogs.
 It is written against the `pkbot` API from the official IIT PokerBots `bot-engine-2026` runner.
+The format played was Sneak Peek Hold'em which was different from standard Texas Hold'em format. 
+In this variant players glimpse one of their opponent’s hole cards based on auction bid.
 This repo does not vendor the full game engine.
 
 ## Requirements
