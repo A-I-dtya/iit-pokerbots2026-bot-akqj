@@ -5,6 +5,7 @@ Although not appealing this was a great exercise for using different python libr
 It is written against the `pkbot` API from the official IIT PokerBots `bot-engine-2026` runner.
 The format played was Sneak Peek Hold'em which was different from standard Texas Hold'em format. 
 In this variant players glimpse one of their opponent’s hole cards based on auction bid.
+
 This repo does not vendor the full game engine.
 
 ## Requirements
