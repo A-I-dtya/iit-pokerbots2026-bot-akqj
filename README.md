@@ -137,5 +137,6 @@ If your bot name differs, update `MY_BOT_NAMES` in the notebook (it is set to `[
 ### How To Use
 
 1. Run matches using the official engine so you get a gamelog file.
-2. Open `bot-engine-2026/PokerBots_Review.ipynb` (Jupyter or Google Colab) and load the gamelog.
-3. Use the fold and starting-hand sections to spot overly-tight lines and adjust preflop/postflop thresholds accordingly.
+2. Enter Your Bot Name in `MY_BOT_NAMES` in First Cell of `Extract Winnings` Part
+3. Open `bot-engine-2026/PokerBots_Review.ipynb` (Jupyter or Google Colab) and load the gamelog.
+4. Use the fold and starting-hand sections to spot overly-tight lines and adjust preflop/postflop thresholds accordingly.
